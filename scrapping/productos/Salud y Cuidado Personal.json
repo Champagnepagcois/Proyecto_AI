@@ -1,0 +1,242 @@
+[
+  {
+    "titulo": "No disponible",
+    "precio": "No disponible",
+    "rating": "4.5 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/Pomada-Campana-Tarro-19-g/dp/B0718ZK7H5/ref=zg_bsms_g_hpc_d_sccl_1/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/81Xqb25vXaL._AC_UL600_SR600,400_.jpg"
+  },
+  {
+    "titulo": "Saba Tampones Super Con Aplicador Compacto, Flujo Abundante, 10 Piezas",
+    "precio": "$26.95",
+    "rating": "4.7 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/Saba-Tampones-Compacto-Blanco-Piezas/dp/B06ZXSR43V/ref=zg_bsms_g_hpc_d_sccl_2/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/61Kxxln2RUL._AC_UL600_SR600,400_.jpg"
+  },
+  {
+    "titulo": "Papel Higiénico Premier Rendiplus 12 Rollos de 300 hojas dobles - Mayor Absorción, Mayor Rendimiento...",
+    "precio": "$64.90",
+    "rating": "4.5 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/Higi%C3%A9nico-Premier-Rendiplus-Rollos-dobles/dp/B0B25Q3C9C/ref=zg_bsms_g_hpc_d_sccl_3/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/71NgijTQjBL._AC_UL600_SR600,400_.jpg"
+  },
+  {
+    "titulo": "123 Maxi Poder con Suavizante y Jazmín, 4.65 litros, Blanco",
+    "precio": "$134.00",
+    "rating": "4.7 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/Poder-Suavizante-Jazm%C3%ADn-litros-Blanco/dp/B01M2YBOMM/ref=zg_bsms_g_hpc_d_sccl_4/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/51KLVrD-qqL._AC_UL600_SR600,400_.jpg"
+  },
+  {
+    "titulo": "Regio Aires de Lavanda Papel higiénico 32 rollos, 200 hojas dobles",
+    "precio": "$150.00",
+    "rating": "4.1 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/higi%C3%A9nico-Regio-Lavanda-rollos-dobles/dp/B0CM9FGTZ6/ref=zg_bsms_g_hpc_d_sccl_5/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/81MCe10RGQL._AC_UL600_SR600,400_.jpg"
+  },
+  {
+    "titulo": "Suavitel Suavizante de Ropa Momentos Mágicos Abrazo de Amor 4.8 L. Con Cápsulas de Fragancia 3D y Ac...",
+    "precio": "$150.00",
+    "rating": "4.8 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/Suavitel-Suavizante-Telas-Moments-Abrazo/dp/B08VD4QRSX/ref=zg_bsms_g_hpc_d_sccl_6/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/71W7UU0iPzL._AC_UL600_SR600,400_.jpg"
+  },
+  {
+    "titulo": "No disponible",
+    "precio": "No disponible",
+    "rating": "4.8 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/Higi%C3%A9nico-Luxury-Almendras-Triples-Regio/dp/B079K6SWX2/ref=zg_bsms_g_hpc_d_sccl_7/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/71aIVuOOYuL._AC_UL600_SR600,400_.jpg"
+  },
+  {
+    "titulo": "Viva Quitamanchas Total Regular, Detergente líquido 6.64 L",
+    "precio": "$199.91",
+    "rating": "4.8 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/Viva-Regular-6-64L/dp/B07T9G655V/ref=zg_bsms_g_hpc_d_sccl_8/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/61RjM1ZQvaL._AC_UL600_SR600,400_.jpg"
+  },
+  {
+    "titulo": "Nestlé MaterPlus Cápsulas DHA (Omega 3), Vitaminas y Minerales 34g",
+    "precio": "$210.00",
+    "rating": "4.8 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/Nestl%C3%A9-Suplemento-Alimenticio-Vitaminas-Minerales/dp/B07RGLRVRK/ref=zg_bsms_g_hpc_d_sccl_9/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/61wcLrkx9SL._AC_UL600_SR600,400_.jpg"
+  },
+  {
+    "titulo": "Enjuague Bucal Colgate Total 12 Encías Reforzadas 500ml",
+    "precio": "$81.00",
+    "rating": "4.7 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/Enjuague-Bucal-Colgate-Enc%C3%ADas-Reforzadas/dp/B08TQHQ9DN/ref=zg_bsms_g_hpc_d_sccl_10/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/517vqDgsB6L._AC_UL600_SR600,400_.jpg"
+  },
+  {
+    "titulo": "VISOONE - anteojos de bloqueo de luz azul rectangular, elegante, marco multicolor para mujeres y hom...",
+    "precio": "$399.99",
+    "rating": "4.6 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/VISOONE-anteojos-rectangular-elegante-multicolor/dp/B0CH2Q6F7Y/ref=zg_bsms_g_hpc_d_sccl_11/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/71tZuH8gwpL._AC_UL600_SR600,400_.jpg"
+  },
+  {
+    "titulo": "Colgate Pasta Dental Triple Acción Menta Original 2 x 115 ml. Protege tu Salud Bucal y la de tu Fami...",
+    "precio": "$50.00",
+    "rating": "4.8 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/Colgate-Original-Protecci%C3%B3n-Blancura-Frescura/dp/B0969D9P89/ref=zg_bsms_g_hpc_d_sccl_12/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/81alT2xrRAL._AC_UL600_SR600,400_.jpg"
+  },
+  {
+    "titulo": "Bluelander Masajeador de Espalda, Función de Calentamiento por Infrarrojo, Masajeador de Cuello y Ho...",
+    "precio": "$429.00",
+    "rating": "4.3 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/Bluelander-Masajeador-Calentamiento-Infrarrojo-Multifuncional/dp/B0BR642NWC/ref=zg_bsms_g_hpc_d_sccl_13/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/71k0MLjSgAL._AC_UL600_SR600,400_.jpg"
+  },
+  {
+    "titulo": "Bounce Hojas suavizantes de tela para quitar arrugas y estáticas, frescas para exteriores, paquete d...",
+    "precio": "$325.00",
+    "rating": "4.8 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/suavizantes-arrugas-est%C3%A1ticas-frescas-exteriores/dp/B01LZR2ID2/ref=zg_bsms_g_hpc_d_sccl_14/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/61wguTEps+L._AC_UL300_SR300,200_.jpg"
+  },
+  {
+    "titulo": "Kleenex Cottonelle Elegance XL, Papel Higiénico Extra Largo, 32 Rollos Con 228 Hojas Dobles C/U",
+    "precio": "$198.00",
+    "rating": "4.7 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/Kleenex-Cottonelle-Elegance-Higi%C3%A9nico-Rollos/dp/B0CK9S7HBN/ref=zg_bsms_g_hpc_d_sccl_15/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/61LWAKXtKtL._AC_UL300_SR300,200_.jpg"
+  },
+  {
+    "titulo": "Citrato de Magnesio + Citrato de Potasio | 1334 mg de citrato de magnesio y citrato de potasio | Adi...",
+    "precio": "$221.00",
+    "rating": "4.7 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/Citrato-Magnesio-Potasio-Adicionados-Citrate-60/dp/B0CVM3ZH2N/ref=zg_bsms_g_hpc_d_sccl_16/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/81yFMmj-f6L._AC_UL300_SR300,200_.jpg"
+  },
+  {
+    "titulo": "MAS Color - Detergente Líquido, 4.65 L; Renueva el Color de la Ropa (62 cargas) Especial para Manten...",
+    "precio": "$148.00",
+    "rating": "4.8 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/MAS-Detergente-L%C3%ADquido-para-Color/dp/B01M11JQQ8/ref=zg_bsms_g_hpc_d_sccl_17/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/513qOQD094L._AC_UL300_SR300,200_.jpg"
+  },
+  {
+    "titulo": "YRBOGJ Pene Manga Vibrador Juguetes Sexuales - Fundas para Pene Reutilizable, APP + Control Remoto, ...",
+    "precio": "$199.00",
+    "rating": "4.2 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/YRBOGJ-Manga-Vibrador-Juguetes-Sexuales/dp/B0D99VN2RY/ref=zg_bsms_g_hpc_d_sccl_18/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/61vo-aN5SCL._AC_UL300_SR300,200_.jpg"
+  },
+  {
+    "titulo": "Masajeador de mano con 6 velocidades automáticas, pistola de masaje de tejido profundo portátil con ...",
+    "precio": "$589.99",
+    "rating": "4.4 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/Masajeador-velocidades-autom%C3%A1ticas-cabezales-calientes/dp/B0BFWCJTP5/ref=zg_bsms_g_hpc_d_sccl_19/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/610iHq-OsZL._AC_UL300_SR300,200_.jpg"
+  },
+  {
+    "titulo": "Entera | Colágeno Hidrolizado, 500g | Pack de 2",
+    "precio": "$489.00",
+    "rating": "4.7 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/Entera-Col%C3%A1geno-Hidrolizado-500g-Pack/dp/B0BWSJ7QY4/ref=zg_bsms_g_hpc_d_sccl_20/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/61iyohrOS0L._AC_UL300_SR300,200_.jpg"
+  },
+  {
+    "titulo": "Velas Aromaticas, E T EASYTAO Juego de 12 Piezas(2.2 Onzas) Velas Perfumadas Relajantes, Aromaterapi...",
+    "precio": "$258.00",
+    "rating": "4.7 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/Aromaticas-EASYTAO-Perfumadas-Aromaterapia-Aniversario/dp/B0CD1KWWFC/ref=zg_bsms_g_hpc_d_sccl_21/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/81MHDpC8mpL._AC_UL300_SR300,200_.jpg"
+  },
+  {
+    "titulo": "1 Botella de lavado e irrigación nasal. 250ML. Lavado nasal. Irrigador nasal. Enjuague nasal. Botell...",
+    "precio": "$179.00",
+    "rating": "4.5 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/irrigaci%C3%B3n-Irrigador-resfriado-congesti%C3%B3n-ronquidos/dp/B0D2PKSPDG/ref=zg_bsms_g_hpc_d_sccl_22/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/41bDuGlQWiL._AC_UL600_SR600,400_.jpg"
+  },
+  {
+    "titulo": "Suavitel Complete Suavizante de Telas Acqua 2.8 L",
+    "precio": "$80.00",
+    "rating": "4.8 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/Suavitel-Complete-Suavizante-Telas-Acqua/dp/B087CQQ5CT/ref=zg_bsms_g_hpc_d_sccl_23/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/71rTdaL5m3L._AC_UL300_SR300,200_.jpg"
+  },
+  {
+    "titulo": "Blackultra Pulsioxímetro de Dedo, Oxímetro de Pulso, Medidor de Oxígeno SpO2 y Monitor de Frecuencia...",
+    "precio": "$499.00",
+    "rating": "4.6 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/Blackultra-Pulsiox%C3%ADmetro-Frecuencia-Incluidas-Almacenamiento/dp/B0D1K5MV5D/ref=zg_bsms_g_hpc_d_sccl_24/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/51uRAtBfrQL._AC_UL600_SR600,400_.jpg"
+  },
+  {
+    "titulo": "DOXUNGOO 300ml Yoga Nasal Botella.Irrigador nasal.Botella de lavado nasal .Kit de Lavado Nasal y Sin...",
+    "precio": "$169.00",
+    "rating": "4.5 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/Botella-Irrigador-nasal-Botella-Sinusal-Botella-Tratamiento-500ml-azul/dp/B06XX9NH2L/ref=zg_bsms_g_hpc_d_sccl_25/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/61ApRCK-+qL._AC_UL600_SR600,400_.jpg"
+  },
+  {
+    "titulo": "Magnesio y Potasio 240 Cápsulas 1400 mg por porción. Adicionado con coco orgánico. Ingredientes natu...",
+    "precio": "$466.65",
+    "rating": "4.8 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/Magnesio-Adicionado-org%C3%A1nico-Ingredientes-naturales/dp/B0D2LVVSQ6/ref=zg_bsms_g_hpc_d_sccl_26/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/61mcZ3307BL._AC_UL600_SR600,400_.jpg"
+  },
+  {
+    "titulo": "ZZBIFRJ Remoto Inteligente Massager, Silencioso Vibradorador para Mujer Inalambrico, 9 Modos, IPX7 I...",
+    "precio": "$269.00",
+    "rating": "4.1 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/ZZBIFRJ-Inteligente-Vibradorador-Inalambrico-Impermeable/dp/B0D6QRLD59/ref=zg_bsms_g_hpc_d_sccl_27/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/61o-isZDgaL._AC_UL600_SR600,400_.jpg"
+  },
+  {
+    "titulo": "Now Foods - NOW Omega-3 1000 mg, 200 cápsulas blandas",
+    "precio": "$368.00",
+    "rating": "4.7 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/Now-Foods-Omega-3-1000mg-Softgels/dp/B001GCU6KA/ref=zg_bsms_g_hpc_d_sccl_28/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/71zfKwPXS2L._AC_UL600_SR600,400_.jpg"
+  },
+  {
+    "titulo": "Oxiclean Versátil Quitamanchas en Polvo, Remueve Manchas De Tu Ropa, Alfombras Y Muebles Y Superfici...",
+    "precio": "$204.00",
+    "rating": "4.6 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/Oxiclean-Vers%C3%A1til-Quitamanchas-Alfombras-Superficies/dp/B0CY5R4GWB/ref=zg_bsms_g_hpc_d_sccl_29/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/81NkSXbYnlL._AC_UL600_SR600,400_.jpg"
+  },
+  {
+    "titulo": "Colgate Enjuague Bucal PerioGard 250 ml. Ayuda a Eliminar Gérmenes que Causan Gingivitis, Placa Bact...",
+    "precio": "$209.85",
+    "rating": "4.8 de 5 estrellas",
+    "link": "https://www.amazon.com.mx/Colgate-Enjuague-Periogard-Alcohol-Blanco/dp/B07111PK8X/ref=zg_bsms_g_hpc_d_sccl_30/131-1414012-2324906?psc=1",
+    "categoria": "Salud y Cuidado Personal",
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/61PYjV9TQgL._AC_UL600_SR600,400_.jpg"
+  }
+]
