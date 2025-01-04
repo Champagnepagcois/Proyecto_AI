@@ -25,7 +25,7 @@ const FooterBanner = ({ footerBanner }: Props) => {
           </Link>
         </div>
         <img
-          src={urlFor(footerBanner.image).toString()}
+          src={(footerBanner.image).toString()}
           className="footer-banner-image"
         />
       </div>

@@ -1,6 +1,9 @@
 import { Product, FooterBanner, HeroBanner } from "../components";
 import { IBanner, IProduct } from "../dto";
 import { client } from "../lib/client";
+import {getProducts,
+  getSimilarProducts,
+  getDetails} from "../controller/controller.routes";
 
 interface Props {
   products: IProduct[];
@@ -18,7 +21,7 @@ const Home = ({ products, bannerData }: Props) => {
       </div>
       <div className="products-container">
         {products.map((product) => (
-          <Product key={product._id} product={product} />
+          <Product key={product.id} product={product} />
         ))}
       </div>
 
@@ -28,11 +31,14 @@ const Home = ({ products, bannerData }: Props) => {
 };
 
 export const getServerSideProps = async () => {
-  const query = '*[_type == "product"]';
-  const products = await client.fetch(query);
+  //const query = '*[_type == "product"]';
+  const products = await getProducts();
 
-  const bannerQuery = '*[_type == "banner"]';
-  const bannerData = await client.fetch(bannerQuery);
+  //const bannerQuery = '*[_type == "banner"]';
+  //const bannerData = await client.fetch(bannerQuery);
+  const bannerData = await getProducts();
+  console.log("Data bannerData--------------------")
+  console.log(bannerData);
 
   return {
     props: { products, bannerData },

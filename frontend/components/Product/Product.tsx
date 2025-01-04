@@ -6,19 +6,20 @@ interface Props {
   product: IProduct;
 }
 
-const Product = ({ product: { image, name, slug, price } }: Props) => {
+const Product = ({ product: { id,image, titulo, precio } }: Props) => {
   return (
     <div>
-      <Link href={`/product/${slug.current}`}>
+      {/* <Link href={`/productos/${slug.current}`}> */}
+      <Link href={`/productos/${id}`}>
         <div className="product-card">
           <img
-            src={urlFor(image && image[0]).toString()}
+            src={(image ||image[0]).toString()}
             width={250}
             height={250}
             className="product-image"
           />
-          <p className="product-name">{name}</p>
-          <p className="product-price">${price}</p>
+          <p className="product-name">{titulo}</p>
+          <p className="product-price">${precio}</p>
         </div>
       </Link>
     </div>
