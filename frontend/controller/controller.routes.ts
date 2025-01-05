@@ -6,7 +6,7 @@ const API_BASE_URL = process.env.API_BASE_URL || ""; // Asegúrate de definir es
 export const getProducts = async (): Promise<IProduct[]> => {
   try {
     const response = await axios.get(`${API_BASE_URL}/productos`);
-    console.log(response.data);
+    //console.log(response.data);
     return response.data;
   } catch (error) {
     console.error("Error fetching products:", error);
@@ -33,3 +33,14 @@ export const getDetails = async (product: string): Promise<IProduct> => {
     throw error;
   }
 };
+
+export const getProductBanner = async (): Promise<any> => {
+  try {
+    const response = await axios.get(`${API_BASE_URL}/banner`);
+    //console.log(response.data);
+    return response.data;
+  } catch (error) {
+    console.error("Error fetching banners:", error);
+    throw error;
+  }
+}

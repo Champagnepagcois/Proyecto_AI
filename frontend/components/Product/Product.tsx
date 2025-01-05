@@ -6,7 +6,7 @@ interface Props {
   product: IProduct;
 }
 
-const Product = ({ product: { id,image, titulo, precio } }: Props) => {
+const Product = ({ product: { id,image, name, price } }: Props) => {
   return (
     <div>
       {/* <Link href={`/productos/${slug.current}`}> */}
@@ -18,8 +18,11 @@ const Product = ({ product: { id,image, titulo, precio } }: Props) => {
             height={250}
             className="product-image"
           />
-          <p className="product-name">{titulo}</p>
-          <p className="product-price">${precio}</p>
+          <div className="product-name-card">
+            <p className="product-name">{name}</p>
+            <span className="tooltip-text-product-name">{name}</span>
+          </div>
+          <p className="product-price">${price}</p>
         </div>
       </Link>
     </div>

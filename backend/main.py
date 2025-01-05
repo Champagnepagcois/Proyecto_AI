@@ -14,6 +14,29 @@ DB_CONFIG = {
     'port': '5432'
 }
 
+# Ruta para consultar todos los productos del banner
+@app.route('/api/banner', methods=['GET'])
+def get_data_banner():
+    try:
+        # Conexión a la base de datos
+        connection = psycopg2.connect(**DB_CONFIG)
+        cursor = connection.cursor(cursor_factory=RealDictCursor)
+
+        # Consulta SQL
+        query = "SELECT * FROM productBanner;"
+        cursor.execute(query)
+        result = cursor.fetchall()
+
+        # Cerrar la conexión
+        cursor.close()
+        connection.close()
+
+        return jsonify(result), 200
+    except Exception as e:
+        # Imprime el error en la consola para depuración
+        print(f"Error: {e}")
+        return jsonify({'error': str(e)}), 500
+    
 # Ruta para consultar todos los productos
 @app.route('/api/productos', methods=['GET'])
 def get_data():
@@ -23,7 +46,7 @@ def get_data():
         cursor = connection.cursor(cursor_factory=RealDictCursor)
 
         # Consulta SQL
-        query = "SELECT * FROM productos;"  # Asegúrate de que el nombre de la tabla es correcto
+        query = "SELECT * FROM products;"
         cursor.execute(query)
         result = cursor.fetchall()
 

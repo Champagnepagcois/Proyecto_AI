@@ -1,12 +1,13 @@
 export interface IProduct {
   id: string;
   image: any;
-  titulo: string;
-  categoria:string;
+  name: string;
+  category:string;
  /*  slug: {
     current: string;
   }; */
-  precio: number;
+  price: number;
+  rating: number;
   /* quantity: number;
   details: string; */
 }
@@ -16,11 +17,12 @@ export interface IBanner {
   image: any;
   buttonText: string;
   product: string;
-  desc: string;
+  description: string;
   smallText: string;
   midText: string;
   largeText1: string;
   largeText2: string;
   discount: string;
   saleTime: string;
+  category: string;
 }

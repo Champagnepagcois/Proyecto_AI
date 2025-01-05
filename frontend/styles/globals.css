@@ -110,6 +110,10 @@ width: 100%;
   margin-top: 20px;
   width: 100%;
 }
+.product-name-card{
+  width: 250px;
+  position: relative; /* Necesario para posicionar el tooltip */
+}
 .product-card{
  cursor: pointer;
   transform: scale(1, 1);
@@ -130,6 +134,38 @@ width: 100%;
 
 .product-name{
   font-weight: 500;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical; /* Orientación del contenedor */
+}
+
+.tooltip-text-product-name {
+  width: 250px;
+  visibility: hidden; /* El tooltip está oculto por defecto */
+  background-color: rgba(218, 218, 218, 0.733); /* Color de fondo del tooltip */
+  color: black; /* Color del texto */
+  text-align: center;
+  padding: 5px 10px;
+  border-radius: 4px;
+  position: absolute;
+  z-index: 100;
+  bottom: 125%; /* Ajusta la posición del tooltip arriba del producto */
+  left: 50%;
+  transform: translateX(-50%);
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical; /* Orientación del contenedor */
+  opacity: 0; /* Para animaciones */
+  transition: opacity 0.3s ease-in-out;
+}
+
+.product-name-card:hover .tooltip-text-product-name {
+  visibility: visible; /* Muestra el tooltip al hacer hover */
+  opacity: 1;
 }
 .product-price{
   font-weight: 800;
@@ -145,7 +181,6 @@ width: 100%;
   height: 500px;
   line-height: 0.9; 
   width: 100%;
-
 }
 .hero-banner-container .beats-solo{
   font-size: 20px;
@@ -224,7 +259,7 @@ text-align: end;
   background-color: #f02d34;
   border-radius: 15px;
   position: relative;
-  height: 400px;
+  height: 500px;
   line-height: 1; 
   color: white;
   width: 100%;

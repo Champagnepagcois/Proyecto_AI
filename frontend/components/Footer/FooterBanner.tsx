@@ -11,17 +11,17 @@ const FooterBanner = ({ footerBanner }: Props) => {
     <div className="footer-banner-container">
       <div className="banner-desc">
         <div className="left">
-          <p>{footerBanner.discount}</p>
-          <h3>{footerBanner.largeText1}</h3>
-          <h3>{footerBanner.largeText2}</h3>
-          <p>{footerBanner.saleTime}</p>
+          <p>{footerBanner.product.split(' ').slice(0,3).join(' ') || "discontr"}</p>
+          <h3>{footerBanner.largeText1||"Promoción"}</h3>
+          {/* <h3>{footerBanner.largeText2 ||"enero"}</h3> */}
+          <p>{footerBanner.category||"saleTime"}</p>
         </div>
         <div className="right">
-          <p>{footerBanner.smallText}</p>
-          <h3>{footerBanner.midText}</h3>
-          <p>{footerBanner.desc}</p>
+          <p>{footerBanner.smallText || "Descuento del"}</p>
+          <h3>{footerBanner.discount ||"midText"}</h3>
+          <p>{footerBanner.description.split(' ').slice(3,6).join(' ')}</p>
           <Link href={`/product/${footerBanner.product}`}>
-            <button type="button">{footerBanner.buttonText}</button>
+            <button type="button">{footerBanner.buttonText || "comprar ahora"}</button>
           </Link>
         </div>
         <img
