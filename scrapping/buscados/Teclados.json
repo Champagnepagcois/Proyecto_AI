@@ -120,20 +120,20 @@
         "image": "https://m.media-amazon.com/images/I/61nKrd8BW+L._AC_UL320_.jpg"
     },
     {
-        "title": "No disponible",
-        "price": "No disponible",
-        "rating": "Sin calificación",
+        "title": "",
+        "price": "",
+        "rating": "5 de 5 estrellas",
         "link": "https://www.amazon.com.mx#",
         "category": "Teclados",
-        "image": "No disponible"
+        "image": ""
     },
     {
-        "title": "No disponible",
-        "price": "No disponible",
-        "rating": "Sin calificación",
-        "link": "No disponible",
+        "title": "",
+        "price": "",
+        "rating": "5 de 5 estrellas",
+        "link": "",
         "category": "Teclados",
-        "image": "No disponible"
+        "image": ""
     },
     {
         "title": "Free wolf M96 Teclado Inalambrico Español, Bluetooth y 2.4GHz 2 Modes Teclado Gaming, con Pantalla LED y Luz de Retroiluminación Rainbow, para Oficina y Juegos",
@@ -281,7 +281,7 @@
     },
     {
         "title": "Aula F2088 Retro Teclado Mecánico Gamer, con LED Retroiluminación, Volumen Control Tecla, Reposamuñecas Magnético, 104 Ronda Teclas USB Cable Punk Typewriter Mechanical Gaming Keyboard (Switch Azul)",
-        "price": "No disponible",
+        "price": "",
         "rating": "4.7 de 5 estrellas",
         "link": "https://www.amazon.com.mx/Aula-F2088-Retroiluminaci%C3%B3n-Reposamu%C3%B1ecas-Typewriter/dp/B09DKQWTNC/ref=sr_1_34?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.rOsyGS7uglFEb-xpRBqK7Yroxo4yLfzlG6A0uV4vrH6rond6OcZO8cJ_hOtTM4V1eKMxP6cPKSijScHCPwbhqKLDnGcaR8lPlq1zH9yzWanrW5w92ZJZq5eNPoq74ctOGocwevqtdYQ0kh8bAoRs-IjmzbCsTxJWDDS02DPPlDQ_5rCKypQxmNOIuk5EFD5B0DDmLGS_Bn-JYhXelA_9BRGoHcrsGYzB0TBbE3pedyiDbSw2F7cC-tcYAW_WzsR3Fj_3g8Tv4g-T_7BRtbbZAon8TJe6KV_KT-FR0Ej-R7o.bVEdNM0qWEY1vQxUhY5KNYpx9qyg_DwfcEfvuqJCkEY&dib_tag=se&keywords=teclados&qid=1734573737&sr=8-34",
         "category": "Teclados",
@@ -305,7 +305,7 @@
     },
     {
         "title": "Razer Teclado para Juegos Ornata V3 X: Teclas de Perfil bajo, interruptores de Membrana silenciosos, Resistente a derrames - iluminación Chroma RGB - reposamuñecas ergonómico - Negro clásico",
-        "price": "No disponible",
+        "price": "",
         "rating": "4.3 de 5 estrellas",
         "link": "https://www.amazon.com.mx/Razer-Ornata-V3-RZ03-04470200-R3U1-Keyboard-Reacondicionado/dp/B0BR69FSN7/ref=sr_1_37?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.rOsyGS7uglFEb-xpRBqK7Yroxo4yLfzlG6A0uV4vrH6rond6OcZO8cJ_hOtTM4V1eKMxP6cPKSijScHCPwbhqKLDnGcaR8lPlq1zH9yzWanrW5w92ZJZq5eNPoq74ctOGocwevqtdYQ0kh8bAoRs-IjmzbCsTxJWDDS02DPPlDQ_5rCKypQxmNOIuk5EFD5B0DDmLGS_Bn-JYhXelA_9BRGoHcrsGYzB0TBbE3pedyiDbSw2F7cC-tcYAW_WzsR3Fj_3g8Tv4g-T_7BRtbbZAon8TJe6KV_KT-FR0Ej-R7o.bVEdNM0qWEY1vQxUhY5KNYpx9qyg_DwfcEfvuqJCkEY&dib_tag=se&keywords=teclados&qid=1734573737&sr=8-37",
         "category": "Teclados",
@@ -400,11 +400,11 @@
         "image": "https://m.media-amazon.com/images/I/61u-qKsoWcL._AC_UL320_.jpg"
     },
     {
-        "title": "No disponible",
-        "price": "No disponible",
-        "rating": "Sin calificación",
-        "link": "No disponible",
+        "title": "",
+        "price": "",
+        "rating": "5 de 5 estrellas",
+        "link": "",
         "category": "Teclados",
-        "image": "No disponible"
+        "image": ""
     }
 ]

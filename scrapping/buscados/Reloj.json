@@ -169,7 +169,7 @@
     },
     {
         "title": "Fossil",
-        "price": "No disponible",
+        "price": "",
         "rating": "4.6 de 5 estrellas",
         "link": "https://www.amazon.com.mx/Fossil-FS4774-Machine-An%C3%A1logo-Redondo/dp/B0094KUKOI/ref=sr_1_22?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.j-RHly2olGKTNM-MSfhguzbEPcmpiKnhnB00xFnTWnKe0reRzrXBGI2cJPR-6od69ETt6ElFll7T9JsQbpOEfao_Hfwj9ZjSMnI8nSFEGcrOZE41dYO6X1NrlBdNF8_xn9388xvYqpNx2-RbAleK5tqtFwYyL7DP3JASSkC_a5tX7CKMZUlBL4PetHcLsJcU5etERCVRIRucNrWrAJHNvXA6oQc-PgLqb9kPTMj_sb7d8AiPyfXDNn7h_gXjxY4yYLl_GUpPn39wgliKfIzQVWhoqXfK4TcE73hlHckZIWs.gWZqOGEIWNdvKNbsneQbNhCv1aYBnYoGiigh-O8KvYw&dib_tag=se&keywords=relojes&qid=1734626388&sr=8-22",
         "category": "Reloj",
@@ -313,7 +313,7 @@
     },
     {
         "title": "Citizen",
-        "price": "No disponible",
+        "price": "",
         "rating": "4.7 de 5 estrellas",
         "link": "https://www.amazon.com.mx/Citizen-bi1030-reloj-pulsera-inoxidable/dp/B00KXCU17C/ref=sr_1_40?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.j-RHly2olGKTNM-MSfhguzbEPcmpiKnhnB00xFnTWnKe0reRzrXBGI2cJPR-6od69ETt6ElFll7T9JsQbpOEfao_Hfwj9ZjSMnI8nSFEGcrOZE41dYO6X1NrlBdNF8_xn9388xvYqpNx2-RbAleK5tqtFwYyL7DP3JASSkC_a5tX7CKMZUlBL4PetHcLsJcU5etERCVRIRucNrWrAJHNvXA6oQc-PgLqb9kPTMj_sb7d8AiPyfXDNn7h_gXjxY4yYLl_GUpPn39wgliKfIzQVWhoqXfK4TcE73hlHckZIWs.gWZqOGEIWNdvKNbsneQbNhCv1aYBnYoGiigh-O8KvYw&dib_tag=se&keywords=relojes&qid=1734626388&sr=8-40",
         "category": "Reloj",
@@ -346,7 +346,7 @@
     {
         "title": "Skechers",
         "price": "729.00",
-        "rating": "Sin calificación",
+        "rating": "5 de 5 estrellas",
         "link": "https://www.amazon.com.mx/pulseras-Skechers-SR9119-poliuretano-caballero/dp/B0DKKWCCV8/ref=sr_1_44?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.j-RHly2olGKTNM-MSfhguzbEPcmpiKnhnB00xFnTWnKe0reRzrXBGI2cJPR-6od69ETt6ElFll7T9JsQbpOEfao_Hfwj9ZjSMnI8nSFEGcrOZE41dYO6X1NrlBdNF8_xn9388xvYqpNx2-RbAleK5tqtFwYyL7DP3JASSkC_a5tX7CKMZUlBL4PetHcLsJcU5etERCVRIRucNrWrAJHNvXA6oQc-PgLqb9kPTMj_sb7d8AiPyfXDNn7h_gXjxY4yYLl_GUpPn39wgliKfIzQVWhoqXfK4TcE73hlHckZIWs.gWZqOGEIWNdvKNbsneQbNhCv1aYBnYoGiigh-O8KvYw&dib_tag=se&keywords=relojes&qid=1734626388&sr=8-44&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b",
         "category": "Reloj",
         "image": "https://m.media-amazon.com/images/I/614C+xeMrVL._AC_UL320_.jpg"
@@ -384,11 +384,11 @@
         "image": "https://m.media-amazon.com/images/I/81JVXUTHKVL._AC_UL320_.jpg"
     },
     {
-        "title": "No disponible",
-        "price": "No disponible",
-        "rating": "Sin calificación",
-        "link": "No disponible",
+        "title": "",
+        "price": "",
+        "rating": "5 de 5 estrellas",
+        "link": "",
         "category": "Reloj",
-        "image": "No disponible"
+        "image": ""
     }
 ]

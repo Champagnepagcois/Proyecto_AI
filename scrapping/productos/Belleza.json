@@ -16,8 +16,8 @@
     "imagen": "https://images-na.ssl-images-amazon.com/images/I/71a+j9uZWoL._AC_UL600_SR600,400_.jpg"
   },
   {
-    "titulo": "No disponible",
-    "precio": "No disponible",
+    "titulo": "",
+    "precio": "",
     "rating": "4.8 de 5 estrellas",
     "link": "https://www.amazon.com.mx/Dove-Original-radiante-humectante-piezas/dp/B0106HX4MW/ref=zg_bsms_g_beauty_d_sccl_3/131-5455000-8971230?psc=1",
     "categoria": "Belleza",
@@ -121,7 +121,7 @@
   },
   {
     "titulo": "Carolina Herrera - 212 VIP Black Men de 3,4 onzas/100 ml, lanzado en 2017",
-    "precio": "No disponible",
+    "precio": "",
     "rating": "4.7 de 5 estrellas",
     "link": "https://www.amazon.com.mx/Carolina-Herrera-212-Black-Parfum/dp/B074Z9QH5F/ref=zg_bsms_g_beauty_d_sccl_16/131-5455000-8971230?psc=1",
     "categoria": "Belleza",

@@ -57,7 +57,7 @@
     },
     {
         "title": "Samsung Celular Galaxy M15 5G Azul Claro 4GB RAM 128GB, Nacional con Garantía",
-        "price": "No disponible",
+        "price": "",
         "rating": "4.7 de 5 estrellas",
         "link": "https://www.amazon.com.mx/Samsung-Celular-Galaxy-Nacional-Garant%C3%ADa/dp/B0CYN7S9XY/ref=sr_1_8?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.k_FMjVHKfo-VdGiJWOg28h3nFCExfACEDfu1bLq3rSW7VMPT5BB640_792MAt1bOBoU9INLsf7cNZzFnlwoRukzO_GT09t3E08-9KfAXN5FyNGJAlpMzCaPIMMsLVpgFeBXX54EXS9ZIjXRN6WqxaEZPS6B19IYOAK9h5V83NRYOVPicAK7z2ENzabkSlT_QWzjOPa1d7Pk0406ZIczQA071BNtJHuJqI8qbjR1ZLk03P2slCZdkgaXsT5mnPnHm5ApNvD1COQ5hbSB_XGxFW16A3OPsb5zXiALWt-Mwt5M.YOFprV1gS3XsXLj_iQMsXU15c7Gj7u3BonhaWq5MSF0&dib_tag=se&keywords=celulares&qid=1734573497&sr=8-8",
         "category": "celulares",
@@ -249,7 +249,7 @@
     },
     {
         "title": "Xiaomi | Celular Poco X6 Pro 5G Grey 12GB RAM 512GB ROM",
-        "price": "No disponible",
+        "price": "",
         "rating": "4.5 de 5 estrellas",
         "link": "https://www.amazon.com.mx/Celular-Poco-Grey-12GB-512GB/dp/B0CPXZHT66/ref=sr_1_32?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.k_FMjVHKfo-VdGiJWOg28h3nFCExfACEDfu1bLq3rSW7VMPT5BB640_792MAt1bOBoU9INLsf7cNZzFnlwoRukzO_GT09t3E08-9KfAXN5FyNGJAlpMzCaPIMMsLVpgFeBXX54EXS9ZIjXRN6WqxaEZPS6B19IYOAK9h5V83NRYOVPicAK7z2ENzabkSlT_QWzjOPa1d7Pk0406ZIczQA071BNtJHuJqI8qbjR1ZLk03P2slCZdkgaXsT5mnPnHm5ApNvD1COQ5hbSB_XGxFW16A3OPsb5zXiALWt-Mwt5M.YOFprV1gS3XsXLj_iQMsXU15c7Gj7u3BonhaWq5MSF0&dib_tag=se&keywords=celulares&qid=1734573497&sr=8-32",
         "category": "celulares",
@@ -384,11 +384,11 @@
         "image": "https://m.media-amazon.com/images/I/6197n0ldVGL._AC_UL320_.jpg"
     },
     {
-        "title": "No disponible",
-        "price": "No disponible",
-        "rating": "Sin calificación",
-        "link": "No disponible",
+        "title": "",
+        "price": "",
+        "rating": "5 de 5 estrellas",
+        "link": "",
         "category": "celulares",
-        "image": "No disponible"
+        "image": ""
     }
 ]

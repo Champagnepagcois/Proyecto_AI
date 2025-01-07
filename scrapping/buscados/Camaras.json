@@ -168,20 +168,20 @@
         "image": "https://m.media-amazon.com/images/I/51keHnu-7YL._AC_UL320_.jpg"
     },
     {
-        "title": "No disponible",
-        "price": "No disponible",
-        "rating": "Sin calificación",
+        "title": "",
+        "price": "",
+        "rating": "5 de 5 estrellas",
         "link": "https://www.amazon.com.mx#",
         "category": "Camaras",
-        "image": "No disponible"
+        "image": ""
     },
     {
-        "title": "No disponible",
-        "price": "No disponible",
-        "rating": "Sin calificación",
-        "link": "No disponible",
+        "title": "",
+        "price": "",
+        "rating": "5 de 5 estrellas",
+        "link": "",
         "category": "Camaras",
-        "image": "No disponible"
+        "image": ""
     },
     {
         "title": "Tapo TP-LINK Tapo C310, cámara de seguridad Wi-Fi para exteriores, definición de 3MP, alarma de luz y sonido, visión nocturna, funciona con Alexa",
@@ -194,7 +194,7 @@
     {
         "title": "4MP Camara de Seguridad Exterior con Tres Lentes,2.4GHz WiFi Cámara de Vigilancia para Casa,Detección de Movimiento Humano,HD Visión Nocturna Color,Pan&Tilt 360°,Audio Bidireccional,Impermeable IP66",
         "price": "599\n..00",
-        "rating": "Sin calificación",
+        "rating": "5 de 5 estrellas",
         "link": "https://www.amazon.com.mx/Seguridad-Vigilancia-Movimiento-Bidireccional-Impermeable/dp/B0D8BZHD3F/ref=sr_1_23?dib=eyJ2IjoiMSJ9.Z2ZeXl7gqa4YiMpDAxYIA8Cwc6RgKy4G5uFt9bDifZiTdW2v-lj93-82JLQgo2qNt2d6kpaKkRJ1Ch9zplTEg4gIc3frkL5H-XXZGdw-WhVvZUZvsjCePRYJjhzAOyYby7-YJa403a4u-dj9gKgt1Gn_y1U9Q-0zC6RPD-AZoPyBD9h2M-T0R4ZLa4WjPHX10f0i_N3zkOu046t8p1E5JVjdmeGTETo3rkhIknZJdNlAY3_QTL8uvr7LAOEdSxAWzHEKRXnE1erDYQWMMzCSx3NAhjVecLo3pz3vAftDSrU.BLK1jV-PNDHcOOavoD3m-G5CbVkU4zjBabMUJvflCnU&dib_tag=se&keywords=camaras&qid=1734626245&sr=8-23&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b",
         "category": "Camaras",
         "image": "https://m.media-amazon.com/images/I/71PyEQgR2ML._AC_UL320_.jpg"
@@ -282,7 +282,7 @@
     {
         "title": "2PCS Camara de Seguridad Exterior WiFi 2.4GHz, 2MP Cámara de Vigilancia para Casa,Cámara Inalámbrica Impermeable IP66,360° Camaras de Seguridad con Visión Nocturna de Color con Detección de Movimiento",
         "price": "649\n..00",
-        "rating": "Sin calificación",
+        "rating": "5 de 5 estrellas",
         "link": "https://www.amazon.com.mx/Seguridad-Vigilancia-Inal%C3%A1mbrica-Impermeable-Movimiento/dp/B0DMDFXD9J/ref=sr_1_34?dib=eyJ2IjoiMSJ9.Z2ZeXl7gqa4YiMpDAxYIA8Cwc6RgKy4G5uFt9bDifZiTdW2v-lj93-82JLQgo2qNt2d6kpaKkRJ1Ch9zplTEg4gIc3frkL5H-XXZGdw-WhVvZUZvsjCePRYJjhzAOyYby7-YJa403a4u-dj9gKgt1Gn_y1U9Q-0zC6RPD-AZoPyBD9h2M-T0R4ZLa4WjPHX10f0i_N3zkOu046t8p1E5JVjdmeGTETo3rkhIknZJdNlAY3_QTL8uvr7LAOEdSxAWzHEKRXnE1erDYQWMMzCSx3NAhjVecLo3pz3vAftDSrU.BLK1jV-PNDHcOOavoD3m-G5CbVkU4zjBabMUJvflCnU&dib_tag=se&keywords=camaras&qid=1734626245&sr=8-34&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b",
         "category": "Camaras",
         "image": "https://m.media-amazon.com/images/I/71f9+60vYzL._AC_UL320_.jpg"
@@ -400,11 +400,11 @@
         "image": "https://m.media-amazon.com/images/I/61TLneKHd+L._AC_UL320_.jpg"
     },
     {
-        "title": "No disponible",
-        "price": "No disponible",
-        "rating": "Sin calificación",
-        "link": "No disponible",
+        "title": "",
+        "price": "",
+        "rating": "5 de 5 estrellas",
+        "link": "",
         "category": "Camaras",
-        "image": "No disponible"
+        "image": ""
     }
 ]

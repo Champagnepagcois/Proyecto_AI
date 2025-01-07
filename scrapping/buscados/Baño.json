@@ -384,11 +384,11 @@
         "image": "https://m.media-amazon.com/images/I/51xNvHhHarL._AC_UL320_.jpg"
     },
     {
-        "title": "No disponible",
-        "price": "No disponible",
-        "rating": "Sin calificación",
-        "link": "No disponible",
+        "title": "",
+        "price": "",
+        "rating": "5 de 5 estrellas",
+        "link": "",
         "category": "Baño",
-        "image": "No disponible"
+        "image": ""
     }
 ]

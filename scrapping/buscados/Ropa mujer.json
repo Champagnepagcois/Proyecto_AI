@@ -49,8 +49,8 @@
     },
     {
         "title": "BIMOZY",
-        "price": "No disponible",
-        "rating": "Sin calificación",
+        "price": "",
+        "rating": "5 de 5 estrellas",
         "link": "https://www.amazon.com.mx/BIMOZY-Camisas-Mediano-Regular-Almendra/dp/B0DDSRWF1J/ref=sr_1_7?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.Qk2ftizRjtgnZKRf_uPTUFJ3bUmIWsc4MAePLVzgyItM68l11tuzadV_9Xvb17B3ahF3zOAMHsBfTht7crFiTp-vL6wWDqAeGFPrbScBd2Lo1qXYii2TR63vjkVLx-s9NA1pV4vB_hOzu8x4ipATTzRIQnQC7ZHnfrHvEO7wOeMnvvvEp6NPm-vS_I3omR8yKNvYan-IExwlmr08AxwMb4kBTC2z0TMtQZC1-x0GyJjWRtNIoxcq_mImmAqv6lEu_0gTo-VH3W_JamFx6XSBoAqf35tTcdlEzQEP4gDTqS5in-oiNbpxp4kGvOVw50LGziB4S0akvxvgDOKfzijdtReZixgUb3ktBJS4OfU19OB5V36MlDOQWITIPmi9GhoUlSnhaZC2YnEs87DmH94UzrVhIneyXaIvm729yKpHsbq_zFuTFeSbUGGCeOktWA2y.HMHmSVwBpoeYnOdHISV9vNieU--XQpC_O8qXqN1lkNo&dib_tag=se&keywords=ropa+mujer&qid=1734573572&sr=8-7",
         "category": "Ropa mujer",
         "image": "https://m.media-amazon.com/images/I/617dvgv-7RL._AC_UL320_.jpg"
@@ -162,7 +162,7 @@
     {
         "title": "VIOPY",
         "price": "339.00",
-        "rating": "Sin calificación",
+        "rating": "5 de 5 estrellas",
         "link": "https://www.amazon.com.mx/VIOPY-Sudaderas-Sudadera-Deportiva-Causales/dp/B0DB52QCMJ/ref=sr_1_21?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.Qk2ftizRjtgnZKRf_uPTUFJ3bUmIWsc4MAePLVzgyItM68l11tuzadV_9Xvb17B3ahF3zOAMHsBfTht7crFiTp-vL6wWDqAeGFPrbScBd2Lo1qXYii2TR63vjkVLx-s9NA1pV4vB_hOzu8x4ipATTzRIQnQC7ZHnfrHvEO7wOeMnvvvEp6NPm-vS_I3omR8yKNvYan-IExwlmr08AxwMb4kBTC2z0TMtQZC1-x0GyJjWRtNIoxcq_mImmAqv6lEu_0gTo-VH3W_JamFx6XSBoAqf35tTcdlEzQEP4gDTqS5in-oiNbpxp4kGvOVw50LGziB4S0akvxvgDOKfzijdtReZixgUb3ktBJS4OfU19OB5V36MlDOQWITIPmi9GhoUlSnhaZC2YnEs87DmH94UzrVhIneyXaIvm729yKpHsbq_zFuTFeSbUGGCeOktWA2y.HMHmSVwBpoeYnOdHISV9vNieU--XQpC_O8qXqN1lkNo&dib_tag=se&keywords=ropa+mujer&qid=1734573572&sr=8-21&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b",
         "category": "Ropa mujer",
         "image": "https://m.media-amazon.com/images/I/61aQ+3Rk6iL._AC_UL320_.jpg"
@@ -280,20 +280,20 @@
         "image": "https://m.media-amazon.com/images/I/81oigpczMnL._AC_UL320_.jpg"
     },
     {
-        "title": "No disponible",
-        "price": "No disponible",
-        "rating": "Sin calificación",
+        "title": "",
+        "price": "",
+        "rating": "5 de 5 estrellas",
         "link": "https://www.amazon.com.mx#",
         "category": "Ropa mujer",
-        "image": "No disponible"
+        "image": ""
     },
     {
-        "title": "No disponible",
-        "price": "No disponible",
-        "rating": "Sin calificación",
-        "link": "No disponible",
+        "title": "",
+        "price": "",
+        "rating": "5 de 5 estrellas",
+        "link": "",
         "category": "Ropa mujer",
-        "image": "No disponible"
+        "image": ""
     },
     {
         "title": "EIGYO",
@@ -400,11 +400,11 @@
         "image": "https://m.media-amazon.com/images/I/81LXb5NOcdL._AC_UL320_.jpg"
     },
     {
-        "title": "No disponible",
-        "price": "No disponible",
-        "rating": "Sin calificación",
-        "link": "No disponible",
+        "title": "",
+        "price": "",
+        "rating": "5 de 5 estrellas",
+        "link": "",
         "category": "Ropa mujer",
-        "image": "No disponible"
+        "image": ""
     }
 ]

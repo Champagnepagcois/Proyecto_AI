@@ -1,7 +1,7 @@
 [
   {
-    "titulo": "No disponible",
-    "precio": "No disponible",
+    "titulo": "",
+    "precio": "",
     "rating": "4.5 de 5 estrellas",
     "link": "https://www.amazon.com.mx/Pomada-Campana-Tarro-19-g/dp/B0718ZK7H5/ref=zg_bsms_g_hpc_d_sccl_1/131-1414012-2324906?psc=1",
     "categoria": "Salud y Cuidado Personal",
@@ -48,8 +48,8 @@
     "imagen": "https://images-na.ssl-images-amazon.com/images/I/71W7UU0iPzL._AC_UL600_SR600,400_.jpg"
   },
   {
-    "titulo": "No disponible",
-    "precio": "No disponible",
+    "titulo": "",
+    "precio": "",
     "rating": "4.8 de 5 estrellas",
     "link": "https://www.amazon.com.mx/Higi%C3%A9nico-Luxury-Almendras-Triples-Regio/dp/B079K6SWX2/ref=zg_bsms_g_hpc_d_sccl_7/131-1414012-2324906?psc=1",
     "categoria": "Salud y Cuidado Personal",
