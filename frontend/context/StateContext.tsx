@@ -54,14 +54,14 @@ export const StateContextProvider = ({ children }: IStateContextProvider) => {
 
   const onAdd = (product: IProduct, quantity: number) => {
     const checkProductInCart = cartItems.find(
-      (item: IProduct) => item._id === product._id
+      (item: IProduct) => item.id === product.id
     );
 
     setTotalPrice((prev) => prev + product.price * quantity);
     setTotalQuantities((prev) => prev + quantity);
     if (checkProductInCart) {
       const updatedCartItems = cartItems.map((cartProduct: any) => {
-        if (cartProduct._id === product._id) {
+        if (cartProduct.id === product.id) {
           return {
             ...cartProduct,
             quantity: cartProduct.quantity + quantity,
@@ -79,8 +79,8 @@ export const StateContextProvider = ({ children }: IStateContextProvider) => {
   };
 
   const onRemove = (product: IProduct) => {
-    foundProduct = cartItems.find((item) => item._id === product._id);
-    const newCartItems = cartItems.filter((item) => item._id !== product._id);
+    foundProduct = cartItems.find((item) => item.id === product.id);
+    const newCartItems = cartItems.filter((item) => item.id !== product.id);
 
     setTotalPrice((prev) => prev - foundProduct.price * foundProduct.quantity);
     setTotalQuantities((prev) => prev - foundProduct.quantity);
@@ -88,8 +88,8 @@ export const StateContextProvider = ({ children }: IStateContextProvider) => {
   };
 
   const toggleCartItemQuantity = (id: number, value: string) => {
-    foundProduct = cartItems.find((item) => item._id === id);
-    index = cartItems.findIndex((product) => product._id === id);
+    foundProduct = cartItems.find((item) => item.id === id);
+    index = cartItems.findIndex((product) => product.id === id);
     const newCartItems = cartItems;
 
     if (value === "inc") {

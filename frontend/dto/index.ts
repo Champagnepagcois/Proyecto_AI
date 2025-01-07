@@ -8,8 +8,9 @@ export interface IProduct {
   }; */
   price: number;
   rating: number;
-  /* quantity: number;
-  details: string; */
+  quantity: number;
+  url:string;
+  details: string;
 }
 
 export interface IBanner {

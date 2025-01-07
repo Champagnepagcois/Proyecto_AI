@@ -2,6 +2,8 @@ from flask import Flask, jsonify
 import psycopg2
 from psycopg2.extras import RealDictCursor
 
+from knn import useKnn as KNN
+
 # Configuración de Flask
 app = Flask(__name__)
 
@@ -46,7 +48,7 @@ def get_data():
         cursor = connection.cursor(cursor_factory=RealDictCursor)
 
         # Consulta SQL
-        query = "SELECT * FROM products;"
+        query = "SELECT * FROM products ORDER BY RANDOM() LIMIT 35;"
         cursor.execute(query)
         result = cursor.fetchall()
 
@@ -68,7 +70,7 @@ def get_producto(producto_id):
         connection = psycopg2.connect(**DB_CONFIG)
         cursor = connection.cursor(cursor_factory=RealDictCursor)
         # Consulta SQL
-        query = "SELECT * FROM productos WHERE id = %s;"
+        query = "SELECT * FROM products WHERE id = %s;"
         cursor.execute(query, (producto_id,))
         result = cursor.fetchone()
         # Cerrar la conexión
@@ -91,15 +93,16 @@ def get_producto_similar(producto_id):
         # Conexión a la base de datos
         connection = psycopg2.connect(**DB_CONFIG)
         cursor = connection.cursor(cursor_factory=RealDictCursor)
+        resultado = KNN(producto_id);
         # Consulta SQL
-        query = "SELECT * FROM productos WHERE id = %s;"
-        cursor.execute(query, (producto_id,))
-        result = cursor.fetchone()
+        query = "SELECT * FROM products ORDER BY RANDOM() LIMIT 35;" #WHERE id = %s;"
+        cursor.execute(query)#, (producto_id,))
+        result = cursor.fetchall()#fetchone()
         # Cerrar la conexión
         cursor.close()
         connection.close()
         if result:
-            return jsonify(result), 200
+            return jsonify(resultado), 200
         else:
             return jsonify({'error': 'Producto no encontrado'}), 404
     except Exception as e:
