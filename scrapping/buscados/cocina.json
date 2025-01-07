@@ -282,7 +282,7 @@
     {
         "title": "Cookify Juego de Utensilios de Cocina Silicona y Madera Accesorios para Cocinar (Marfil, Set 12 Pzas)",
         "price": "259.00",
-        "rating": "Sin calificación",
+        "rating": "5 de 5 estrellas",
         "link": "https://www.amazon.com.mx/Cookify-Utensilios-Silicona-Accesorios-Cocinar/dp/B0DFDHLMNG/ref=sr_1_36?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.xpYfjUqbjzgEGmiSOlFU2pxMlmdAuhI_6v-1_nEcNAjGsX8JRoJGxL3L72abD2yuK39-e5OrBio6vEfLyw2HbzOicE_IBR4N38r5DES846ema62pRemrrijG47j4T84rnQ7mWEwdFAJGIwAjIkeL-eH3lBLMSH7deS_CLH18Kvu9gXEOK2K6AYJCN9sC1SaA_r_bOJEg9vDeDYXwwrxGaCpxuQFj3J8f_Ey5bBgbpR48cm8UhsrOULSbxISaG3lGMmbhxfmV85zAJ-3uPDA8XTNjD0voNAi9rdilc5ek_XXaPsgXD-vz8iapjHtUXi9mnVqOsMo2DzzmPTCSF-BTdAI-jh75AAD3GUS_2qnYfEpS9wmI7Fb2HfJBXuYaA4k8QmwVzPAUDX4t3-bIYMyL07P48T8cnq2sFd5PLlkfGLm0gaMK50oBZWS0Sb-uHI3Z.E4DqjarTOVamPQJcyteJpL1s-mvE2-VnLwNpoujvdcs&dib_tag=se&keywords=cocina&qid=1734624788&sr=8-36&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b",
         "category": "Cocina",
         "image": "https://m.media-amazon.com/images/I/61On9UdJ0wL._AC_UL320_.jpg"
@@ -384,11 +384,11 @@
         "image": "https://m.media-amazon.com/images/I/61c04TQQ2sL._AC_UL320_.jpg"
     },
     {
-        "title": "No disponible",
-        "price": "No disponible",
-        "rating": "Sin calificación",
-        "link": "No disponible",
+        "title": "",
+        "price": "",
+        "rating": "5 de 5 estrellas",
+        "link": "",
         "category": "Cocina",
-        "image": "No disponible"
+        "image": ""
     }
 ]

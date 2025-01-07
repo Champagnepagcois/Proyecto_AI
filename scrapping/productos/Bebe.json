@@ -48,9 +48,9 @@
     "imagen": "https://images-na.ssl-images-amazon.com/images/I/519jOlXfjxL._AC_UL600_SR600,400_.jpg"
   },
   {
-    "titulo": "No disponible",
+    "titulo": "",
     "precio": "$799.00",
-    "rating": "No disponible",
+    "rating": "",
     "link": "https://www.amazon.com.mx/Andadera-caminadora-actividades-entretenimiento-Interactivo/dp/B0DP1ZM5GN/ref=zg_bsms_g_baby_d_sccl_7/144-2039848-0875060?psc=1",
     "categoria": "Bebe",
     "imagen": "https://images-na.ssl-images-amazon.com/images/I/71HtKf8o1yL._AC_UL600_SR600,400_.jpg"
@@ -153,7 +153,7 @@
   },
   {
     "titulo": "Huggies Pull-Ups Calzoncitos Entrenadores, Talla Extragrande Niño, Paquete con 30 Piezas, Ideal para niños de 18 kg o más",
-    "precio": "No disponible",
+    "precio": "",
     "rating": "4.7 de 5 estrellas",
     "link": "https://www.amazon.com.mx/Huggies-Pull-Calzoncitos-Desechables-Paquete/dp/B07SVPS2TD/ref=zg_bsms_g_baby_d_sccl_20/144-2039848-0875060?psc=1",
     "categoria": "Bebe",

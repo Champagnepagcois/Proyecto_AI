@@ -55,21 +55,21 @@ const Cart = (props: Props) => {
           onClick={() => setShowCart(false)}
         >
           <AiOutlineLeft />
-          <span className="heading">Your Cart</span>
-          <span className="cart-num-items">({totalQuantities} items)</span>
+          <span className="heading">Tus productos </span>
+          <span className="cart-num-items">({totalQuantities} productos)</span>
         </button>
 
         {cartItems.length < 1 && (
           <div className="empty-cart">
             <AiOutlineShopping size={150} />
-            <h3>Your shopping bag is empty</h3>
+            <h3>Tu carrito está vacio</h3>
             <Link href="/">
               <button
                 type="button"
                 onClick={() => setShowCart(false)}
                 className="btn"
               >
-                Continue Shopping
+                Continuar comprando
               </button>
             </Link>
           </div>
@@ -78,9 +78,9 @@ const Cart = (props: Props) => {
         <div className="product-container">
           {cartItems.length >= 1 &&
             cartItems.map((item) => (
-              <div key={item._id} className="product">
+              <div key={item.id} className="product">
                 <img
-                  src={urlFor(item?.image[0]).toString()}
+                  src={item?.image.toString()}
                   className="cart-product-image"
                 />
                 <div className="item-desc">
@@ -94,7 +94,7 @@ const Cart = (props: Props) => {
                         <span
                           className="minus"
                           onClick={() =>
-                            toggleCartItemQuantity(item._id, "dec")
+                            toggleCartItemQuantity(item.id, "dec")
                           }
                         >
                           <AiOutlineMinus />
@@ -105,7 +105,7 @@ const Cart = (props: Props) => {
                         <span
                           className="plus"
                           onClick={() =>
-                            toggleCartItemQuantity(item._id, "inc")
+                            toggleCartItemQuantity(item.id, "inc")
                           }
                         >
                           <AiOutlinePlus />
@@ -134,7 +134,7 @@ const Cart = (props: Props) => {
 
             <div className="btn-container">
               <button type="button" className="btn" onClick={handleCheckout}>
-                Purchase
+                comprar
               </button>
             </div>
           </div>

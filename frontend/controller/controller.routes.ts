@@ -16,7 +16,10 @@ export const getProducts = async (): Promise<IProduct[]> => {
 
 export const getSimilarProducts = async (productID: string): Promise<IProduct[]> => {
   try {
-    const response = await axios.post(`${API_BASE_URL}/productos/similares/${productID}`);
+    const response = await axios.get(`${API_BASE_URL}/productos/similares/${productID}`);
+    console.log("-----------------");
+    console.log(response.data.length);
+    console.log("-----------------");
     return response.data;
   } catch (error) {
     console.error("Error calling API:", error);
@@ -26,7 +29,7 @@ export const getSimilarProducts = async (productID: string): Promise<IProduct[]>
 
 export const getDetails = async (product: string): Promise<IProduct> => {
   try {
-    const response = await axios.post(`${API_BASE_URL}/product/${product}`);
+    const response = await axios.get(`${API_BASE_URL}/productos/${product}`);
     return response.data;
   } catch (error) {
     console.error("Error calling API:", error);

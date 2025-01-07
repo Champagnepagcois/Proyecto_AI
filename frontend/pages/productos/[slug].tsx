@@ -9,13 +9,16 @@ import {
   AiOutlinePlus,
   AiFillStar,
   AiOutlineStar,
+  AiFillAlert,
 } from "react-icons/ai";
 import { Product } from "../../components";
 import { useStateContext } from "../../context/StateContext";
+import { getDetails,getProducts,getSimilarProducts } from "../../controller/controller.routes";
+import Link from "next/link";
 
 const ProductDetails = ({ product, products }: any) => {
   const toast = useRef<Toast>(null);
-  const { image, name, details, price } = product;
+  const { image, name, details, price,url,rating, quantity } = product;
   const [index, setIndex] = useState(0);
   const { decreaseQty, increaseQty, qty, onAdd } = useStateContext();
 
@@ -30,12 +33,12 @@ const ProductDetails = ({ product, products }: any) => {
         <div>
           <div className="image-container">
             <img
-              src={urlFor(image && image[index]).toString()}
+              src={image.toString()}
               className="product-detail-image"
             />
           </div>
           <div className="small-images-container">
-            {image?.map((item: any, i: number) => (
+            {/* {image?.map((item: any, i: number) => (
               <img
                 key={i}
                 src={urlFor(item).toString()}
@@ -46,7 +49,7 @@ const ProductDetails = ({ product, products }: any) => {
                   setIndex(i);
                 }}
               />
-            ))}
+            ))} */}
           </div>
         </div>
 
@@ -54,16 +57,20 @@ const ProductDetails = ({ product, products }: any) => {
           <h1>{name}</h1>
           <div className="reviews">
             <div>
+              {}
+              {[...Array(5)].map((_, i) => (
+                i < parseInt(rating,10) ? <AiFillStar key={i} /> : <AiOutlineStar key={i} />
+              ))}
+              {/* <AiFillStar />
               <AiFillStar />
               <AiFillStar />
               <AiFillStar />
-              <AiFillStar />
-              <AiOutlineStar />
+              <AiOutlineStar /> */}
             </div>
-            <p>(20)</p>
+            <p>({quantity})</p>
           </div>
           <h4>Detalles: </h4>
-          <p>{details}</p>
+          <Link href={url}>{url}</Link>
           <p className="price">${price}</p>
 
           <div className="quantity">
@@ -100,8 +107,8 @@ const ProductDetails = ({ product, products }: any) => {
         <h2>Productos relacionados</h2>
         <div className="list_products_like">
           <div className="maylike-products-container track">
-            {products.concat(products).map((item: any) => (
-              <Product key={item._id} product={item} />
+            {products.map((item: any) => (
+              <Product key={item.id} product={item} />
             ))}
           </div>
         </div>
@@ -111,19 +118,25 @@ const ProductDetails = ({ product, products }: any) => {
 };
 
 export const getStaticPaths = async () => {
-  const query = `*[_type == "product"] {
+  /* const query = `*[_type == "product"] {
     slug {
       current
     }
   }
-  `;
+  `; */
 
-  const products = await client.fetch(query);
+  const products = await getProducts();
+  const paths = products.map((product: any) => ({
+    params: {
+      slug: product.id.toString(),
+    },
+  }));
+  /* const products = await client.fetch(query);
   const paths = products.map((product: any) => ({
     params: {
       slug: product.slug.current,
     },
-  }));
+  })); */
 
   return {
     paths,
@@ -132,11 +145,14 @@ export const getStaticPaths = async () => {
 };
 
 export const getStaticProps = async ({ params }: any) => {
-  const query = `*[_type == "product" && slug.current == '${params.slug}'][0]`;
-  const productsQuery = '*[_type == "product"]';
+  const {slug} = params;
 
+  const product = await getDetails(slug);
+  const products = await getSimilarProducts(slug);
+  /* const query = `*[_type == "product" && slug.current == '${params.slug}'][0]`;
+  const productsQuery = '*[_type == "product"]';
   const product = await client.fetch(query);
-  const products = await client.fetch(productsQuery);
+  const products = await client.fetch(productsQuery); */
 
   return {
     props: { product, products },

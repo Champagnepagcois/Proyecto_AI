@@ -217,7 +217,7 @@
     },
     {
         "title": "Donna Karan - Dkny Be Delicious Fresh Blossom de mujer. Aerosol de 3.4 onzas",
-        "price": "No disponible",
+        "price": "",
         "rating": "4.5 de 5 estrellas",
         "link": "https://www.amazon.com.mx/Donna-Karan-Delicious-Blossom-Parfum/dp/B0036FTF5M/ref=sr_1_28?dib=eyJ2IjoiMSJ9.hDacGsWCDWhuYtzGRFEVZYrup4Z4_rsG2QhyFtLIydm4ALKLmwcO6nguaFoiDAFd8UsZI2S0uq7pVCWGEKr-ewrommCpKYNFyRnVvORH6GgegFii7vPG5x-7mzjg-13AphA3BMgq7fMIDXA0Gpg9Dem9De3pWbaU9cWsrJj2m6oSWHEfmgSU65XqVl2tVf-DcwojONtTKN-ydJCNGQJjzb9DaWTXvt05dYP9Lfc26AhaQxfMCRYTPM6z8uV2bfoiqjGlY0jnvO7wwsVErgUwPKME--Zaabe9qxyj-syoFGU.TR8faLGySkzbGHRgWkgSApIp92dJlaQgJoQv620gMZ4&dib_tag=se&keywords=perfumes&qid=1734626043&sr=8-28",
         "category": "Perfumes",
@@ -384,11 +384,11 @@
         "image": "https://m.media-amazon.com/images/I/81d4eK7V15L._AC_UL320_.jpg"
     },
     {
-        "title": "No disponible",
-        "price": "No disponible",
-        "rating": "Sin calificación",
-        "link": "No disponible",
+        "title": "",
+        "price": "",
+        "rating": "5 de 5 estrellas",
+        "link": "",
         "category": "Perfumes",
-        "image": "No disponible"
+        "image": ""
     }
 ]
